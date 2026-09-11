@@ -83,54 +83,5 @@ Mi objetivo es seguir desarrollándome como **ingeniero de software**, fortaleci
 
 Busco constantemente nuevos desafíos y oportunidades para transformar lo que aprendo en **proyectos reales, soluciones útiles y código de calidad**.
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=false"/>
-
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO\&theme=tokyo-night)
-
-</div>
-
----
-
-## 🤝 Conecta conmigo
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TU_USUARIO)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"El mejor código es el que siempre te permite seguir aprendiendo."*
-
-⭐ Si encuentras algo interesante en mis repositorios, ¡no dudes en explorarlos!
-
-</div>

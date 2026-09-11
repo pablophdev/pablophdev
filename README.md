@@ -71,7 +71,7 @@ Me gusta aprender mediante la práctica, construir proyectos y enfrentar nuevos 
 * 🔐 Seguridad y autenticación
 * 🌐 Desarrollo de APIs REST
 * 🐳 Docker y contenedores
-* 🗄️ Diseño y gestión de bases de datos
+* 🗄️ React
 * ☁️ Infraestructura y tecnologías Cloud
 * 📱 Desarrollo de aplicaciones Android con Kotlin
 

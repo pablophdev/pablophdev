@@ -21,6 +21,10 @@ Me gusta aprender mediante la práctica, construir proyectos y enfrentar nuevos 
 * 🗄️ Trabajando con bases de datos relacionales
 * 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas
 
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Philimon-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedro-philimon/)
+
 ---
 
 ## 🛠️ Tecnologías & Herramientas
@@ -71,7 +75,7 @@ Me gusta aprender mediante la práctica, construir proyectos y enfrentar nuevos 
 * 🔐 Seguridad y autenticación
 * 🌐 Desarrollo de APIs REST
 * 🐳 Docker y contenedores
-* 🗄️ React
+* ⚛️ React
 * ☁️ Infraestructura y tecnologías Cloud
 * 📱 Desarrollo de aplicaciones Android con Kotlin
 
@@ -82,6 +86,3 @@ Me gusta aprender mediante la práctica, construir proyectos y enfrentar nuevos 
 Mi objetivo es seguir desarrollándome como **ingeniero de software**, fortaleciendo especialmente mis conocimientos en backend, arquitectura de sistemas e infraestructura.
 
 Busco constantemente nuevos desafíos y oportunidades para transformar lo que aprendo en **proyectos reales, soluciones útiles y código de calidad**.
-
-
-

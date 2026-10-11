@@ -2,17 +2,6 @@
 
 🎓 Estudiante de **Informática en Duoc UC, Chile**, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
-Actualmente estoy fortaleciendo mis conocimientos en **desarrollo backend, aplicaciones móviles, desarrollo web, bases de datos, infraestructura y tecnologías cloud**, con especial interés en el ecosistema de **Java y Spring Boot**.
-
-Me gusta aprender mediante la práctica, construir proyectos y enfrentar nuevos desafíos que me permitan seguir creciendo como desarrollador.
-
----
-
-## 🚀 Sobre mí
-
-* 🎓 Estudiante de Informática en **Duoc UC**
-* 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas
-
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Philimon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-philimon/)
@@ -53,24 +42,9 @@ Desarrollo de un sistema de e-commerce enfocado en el backend utilizando **arqui
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ### 🔧 Herramientas & Entorno
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📚 Actualmente aprendiendo
-
-🌱 Actualmente estoy profundizando mis conocimientos en:
-
-* ☕ Java y Spring Boot
-* 🏗️ Arquitectura de aplicaciones backend
-* 🔐 Seguridad y autenticación
-* 🌐 Desarrollo de APIs REST
-* 🐳 Docker y contenedores
-* ⚛️ React
-* ☁️ Infraestructura y tecnologías Cloud
-* 📱 Desarrollo de aplicaciones Android con Kotlin
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)

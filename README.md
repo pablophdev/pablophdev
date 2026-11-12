@@ -10,7 +10,8 @@
 
 ## 🏆 Proyectos Destacados
 
-### 🛒 [NovaShop](https://github.com/pablophdev/NovaShop)
+### [NovaShop](https://github.com/pablophdev/NovaShop)
+### [Horly](https://horly-frontend.pages.dev/login)
 Desarrollo de un sistema de e-commerce enfocado en el backend utilizando **arquitectura de microservicios** (como `product-service`). Construido aplicando buenas prácticas de configuración, control de versiones y seguridad de credenciales en entornos de desarrollo local.
 
 ---

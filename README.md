@@ -9,7 +9,6 @@
 
 <a href="https://www.linkedin.com/in/pedro-philimon/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Philimon-0C1C1D?style=for-the-badge&logo=linkedin&logoColor=62F3B8" alt="LinkedIn de Pedro Philimon" /></a>
 <a href="https://simplyintel.cl"><img src="https://img.shields.io/badge/Simply%20Intelligence-simplyintel.cl-0C1C1D?style=for-the-badge&logoColor=62F3B8" alt="Sitio web Simply Intelligence" /></a>
-<a href="https://github.com/pablophdev"><img src="https://img.shields.io/badge/GitHub-pablophdev-0C1C1D?style=for-the-badge&logo=github&logoColor=62F3B8" alt="GitHub de Pedro Philimon" /></a>
 
 </div>
 
